@@ -1,0 +1,20 @@
+C:\Users\mauss\Documents\Университет\Программы\core\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\mauss\Documents\Университет\Программы\core\START\x64\Debug\START.MyForm.resources
+C:\Users\mauss\Documents\Университет\Программы\core\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.MyForm.resources
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\mauss\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\mauss\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.MyForm.resources
+C:\Users\mauss\OneDrive\Документы\Университет\Программы\Обработка сигналов с помощью БПФ\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\университет\программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\университет\программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\университет\программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.MyForm.resources
+C:\Users\MIKHAIL KUTOV\OneDrive\Документы\университет\программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\mauss\Documents\Университет\Программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\mauss\Documents\Университет\Программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.MyForm.resources
+C:\Users\mauss\Documents\Университет\Программы\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\79877\Desktop\Обработка_сигналов_с_помощью_БПФ\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\79877\Desktop\Обработка_сигналов_с_помощью_БПФ\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.MyForm.resources
+C:\Users\79877\Desktop\Обработка_сигналов_с_помощью_БПФ\Обработка_сигналов_с_помощью_БПФ\START\x64\Debug\START.vcxproj.GenerateResource.cache
