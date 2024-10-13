@@ -1,0 +1,88 @@
+﻿  pch.cpp
+  funcforRSA.cpp
+  funcforDES.cpp
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\funcforRSA.cpp(65,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/funcforRSA.cpp")
+  
+  Symmetrical noises.cpp
+  Symmetrical noisesDlg.cpp
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(239,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(272,17): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(274,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(342,16): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(375,16): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(408,17): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(452,16): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(457,16): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(462,16): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(481,13): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(505,63): warning C4244: =: преобразование "double" в "unsigned long", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(506,14): warning C4244: =: преобразование "__int64" в "unsigned long", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(586,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(589,11): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(660,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(663,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(735,19): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(738,10): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(811,19): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(814,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(837,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(835,16): warning C4101: a: неиспользованная локальная переменная
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(852,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(851,16): warning C4101: a: неиспользованная локальная переменная
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(939,20): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Symmetrical noisesDlg.cpp(942,11): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Symmetrical%20noisesDlg.cpp")
+  
+  Создание кода...
+  Symmetrical noises.vcxproj -> C:\Users\79877\Downloads\Symmetrical noises\Symmetrical noises\Debug\Symmetrical noises.exe
