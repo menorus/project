@@ -1,0 +1,9 @@
+C:\Users\Дарья\Desktop\core\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\core\START\x64\Debug\START.MyForm.resources
+C:\Users\Дарья\Desktop\core\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\Дарья\Desktop\ит 6 семестр\свертка\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\ит 6 семестр\свертка\START\x64\Debug\START.MyForm.resources
+C:\Users\Дарья\Desktop\ит 6 семестр\свертка\START\x64\Debug\START.vcxproj.GenerateResource.cache
+C:\Users\79877\Desktop\ИБ\свертка\свертка\START\x64\Debug\START.vcxproj.AssemblyReference.cache
+C:\Users\79877\Desktop\ИБ\свертка\свертка\START\x64\Debug\START.MyForm.resources
+C:\Users\79877\Desktop\ИБ\свертка\свертка\START\x64\Debug\START.vcxproj.GenerateResource.cache
