@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\79877\Downloads\лабир\ModelingSystem0\main.cpp(230,35): warning C4305: аргумент: усечение из "double" в "Gdiplus::REAL"
+  ModelingSystem0.vcxproj -> C:\Users\79877\Downloads\лабир\ModelingSystem0\x64\Debug\ModelingSystem0.exe
