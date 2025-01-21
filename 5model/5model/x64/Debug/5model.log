@@ -1,0 +1,42 @@
+﻿  MyForm.cpp
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(60,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(61,22): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(170,30): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(170,30): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(170,30): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(170,30): warning C4267:             _Value_t=bool
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(170,30): warning C4267:         ]
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(171,81): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(171,81): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(171,81): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(171,81): warning C4267:             _Value_t=System::Drawing::PointF
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(171,81): warning C4267:         ]
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(172,56): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(172,56): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(172,56): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(172,56): warning C4267:             _Value_t=System::Drawing::PointF
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(172,56): warning C4267:         ]
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(181,48): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(181,48): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(181,48): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(181,48): warning C4267:             _Value_t=System::Drawing::PointF
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(181,48): warning C4267:         ]
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(182,25): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(182,25): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(182,25): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(182,25): warning C4267:             _Value_t=bool
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(182,25): warning C4267:         ]
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(224,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(224,52): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(224,52): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(224,52): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(224,52): warning C4267:             _Value_t=System::Drawing::PointF
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(224,52): warning C4267:         ]
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(278,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(278,48): warning C4267: аргумент: преобразование из "size_t" в "cliext::impl::vector_impl<_Value_t,false>::size_type"; возможна потеря данных
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(278,48): warning C4267:         with
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(278,48): warning C4267:         [
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(278,48): warning C4267:             _Value_t=System::Drawing::PointF
+C:\Users\79877\source\repos\5model\5model\MyForm.cpp(278,48): warning C4267:         ]
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  5model.vcxproj -> C:\Users\79877\source\repos\5model\x64\Debug\5model.exe

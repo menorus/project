@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\79877\source\repos\3modelirovanie\3modelirovanie\MyForm.cpp(164,47): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\79877\source\repos\3modelirovanie\3modelirovanie\MyForm.cpp(269,47): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\79877\source\repos\3modelirovanie\3modelirovanie\MyForm.cpp(309,47): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  3modelirovanie.vcxproj -> C:\Users\79877\source\repos\3modelirovanie\x64\Debug\3modelirovanie.exe

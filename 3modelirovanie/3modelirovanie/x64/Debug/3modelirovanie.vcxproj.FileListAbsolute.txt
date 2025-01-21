@@ -1,0 +1,3 @@
+C:\Users\79877\source\repos\3modelirovanie\3modelirovanie\x64\Debug\3modelirovanie.vcxproj.AssemblyReference.cache
+C:\Users\79877\source\repos\3modelirovanie\3modelirovanie\x64\Debug\My3modelirovanie.MyForm.resources
+C:\Users\79877\source\repos\3modelirovanie\3modelirovanie\x64\Debug\3modelirovanie.vcxproj.GenerateResource.cache
